@@ -5,7 +5,7 @@ Umbrella for full-stack applications and related services. The ecommerce fronten
 ## Repositories
 
 - `full-stack-projects/` - Full-stack project collection.
-- `grp-ecommerce/ecommerce/` - React frontend.
+- `grp-ecommerce/ecommerce-ui/` - React frontend.
 - `grp-ecommerce/Order-Service/` - Order API.
 - `grp-ecommerce/Product-Service/` - Product API.
 - `grp-ecommerce/product-loader/` - Product data loader.
