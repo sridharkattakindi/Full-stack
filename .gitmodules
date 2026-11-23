@@ -1,0 +1,18 @@
+[submodule "full-stack-projects"]
+	path = full-stack-projects
+	url = git@github.com:sridharkattakindi/full-stack-projects.git
+[submodule "microservices/Order-Service"]
+	path = microservices/Order-Service
+	url = git@github.com:sridharkattakindi/Order-Service.git
+[submodule "microservices/Product-Service"]
+	path = microservices/Product-Service
+	url = git@github.com:sridharkattakindi/Product-Service.git
+[submodule "microservices/product-loader"]
+	path = microservices/product-loader
+	url = git@github.com:sridharkattakindi/product-loader.git
+[submodule "microservices/api-gateway"]
+	path = microservices/api-gateway
+	url = git@github.com:sridharkattakindi/api-gateway.git
+[submodule "microservices/Eureka"]
+	path = microservices/Eureka
+	url = git@github.com:sridharkattakindi/Eureka.git
