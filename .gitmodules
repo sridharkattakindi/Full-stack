@@ -1,6 +1,3 @@
-[submodule "full-stack-projects"]
-	path = full-stack-projects
-	url = git@github.com:sridharkattakindi/full-stack-projects.git
 [submodule "microservices/Order-Service"]
 	path = grp-ecommerce/Order-Service
 	url = git@github.com:sridharkattakindi/Order-Service.git
