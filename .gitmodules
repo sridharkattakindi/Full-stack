@@ -2,17 +2,17 @@
 	path = full-stack-projects
 	url = git@github.com:sridharkattakindi/full-stack-projects.git
 [submodule "microservices/Order-Service"]
-	path = microservices/Order-Service
+	path = grp-ecommerce/Order-Service
 	url = git@github.com:sridharkattakindi/Order-Service.git
 [submodule "microservices/Product-Service"]
-	path = microservices/Product-Service
+	path = grp-ecommerce/Product-Service
 	url = git@github.com:sridharkattakindi/Product-Service.git
 [submodule "microservices/product-loader"]
-	path = microservices/product-loader
+	path = grp-ecommerce/product-loader
 	url = git@github.com:sridharkattakindi/product-loader.git
 [submodule "microservices/api-gateway"]
-	path = microservices/api-gateway
+	path = grp-ecommerce/api-gateway
 	url = git@github.com:sridharkattakindi/api-gateway.git
 [submodule "microservices/Eureka"]
-	path = microservices/Eureka
+	path = grp-ecommerce/Eureka
 	url = git@github.com:sridharkattakindi/Eureka.git

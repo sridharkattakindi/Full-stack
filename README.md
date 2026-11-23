@@ -1,16 +1,16 @@
 # Full-stack
 
-Umbrella for full-stack applications and related services. Related microservices are grouped together under `microservices/`; each directory is a separate repository added as a Git submodule.
+Umbrella for full-stack applications and related services. The ecommerce frontend and its supporting services are grouped under `grp-ecommerce/`.
 
 ## Repositories
 
 - `full-stack-projects/` - Full-stack project collection.
-- [Ecommerce frontend](https://github.com/sridharkattakindi/frontend-practice/tree/main/medium-projects/ecommerce) - Located in the Front-end umbrella; configured to call an API gateway.
-- `microservices/Order-Service/`
-- `microservices/Product-Service/`
-- `microservices/product-loader/`
-- `microservices/api-gateway/`
-- `microservices/Eureka/`
+- `grp-ecommerce/ecommerce/` - React frontend.
+- `grp-ecommerce/Order-Service/` - Order API.
+- `grp-ecommerce/Product-Service/` - Product API.
+- `grp-ecommerce/product-loader/` - Product data loader.
+- `grp-ecommerce/api-gateway/` - Gateway routing to product and order APIs.
+- `grp-ecommerce/Eureka/` - Service discovery.
 
 The gateway routes product and order requests to their services through Eureka.
 
